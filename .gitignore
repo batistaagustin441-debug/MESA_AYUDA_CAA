@@ -1,0 +1,4 @@
+.godot/
+Builds/
+*.tmp
+export_credentials.cfg
