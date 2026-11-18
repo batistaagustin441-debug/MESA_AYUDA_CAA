@@ -1,4 +1,4 @@
-🖥️ Mesa de Ayuda — CAA Corp
+🖥️ Mesa de Ayuda — CAA Corp.
 Eres el técnico de TI de CAA Corp. La oficina, la red y la seguridad de la empresa dependen de ti.
 
 Mesa de Ayuda es un simulador de soporte técnico en 3D. Tu turno va de 08:00 a 17:00 en una oficina de dos pisos llena de empleados con problemas. Atiende tickets, repara equipos, configura la red y protege la empresa de un intruso, antes de que se acabe el día o la seguridad llegue a cero.
